@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeXiti
+- 👋 Hi, We are @CodeXiti
 - 👀 We Create Hight Quality Software
 - 🌱 We are currently prospecting for new projects
 - 📫 How to reach us : contact@codexiti.com
